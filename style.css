@@ -12,7 +12,7 @@ body{
   display: flex;
   padding: 0 10px;
   min-height: 100vh;
-  background: #7F00FF;
+  background: #000000;
   align-items: center;
   justify-content: center;
 }
